@@ -1,0 +1,4 @@
+輸入 make 進行編譯
+輸入 ./main 執行程式
+輸入 make clean 刪除執行檔及.o檔
+由file.in讀入測資,輸出至file.out
